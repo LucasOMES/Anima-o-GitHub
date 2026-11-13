@@ -6,32 +6,33 @@ Projeto Final da Disciplina **Animação 2D II**
 Criação de um grupo de **Animações** de um personagem **-o personagem é apenas silhueta-** **2d no krita** para **implentção posterior na unity**
 
 ## Contexto
-
+Personagem para jogo de ação e plataforma 2d, o jogo será feito na unity e distribuido na steam. É um mudo mágico em que diversas criaturas e animais fantasticos  existem, o público alvo são jovens entre 14-16 anos e o jogo se passará em uma floresta que está sendo invadida por caçadores que querem matar criaturas mágicas que estão a baeira da extinção devido as propriedades eseciais presentes em sua carne.
 
 ## Personagem
-
+o Personagem é um dragão ancião amaldiçoado a ficar em forma humana, só conseguindo tranformar partes do seu corpo. Ele vive isolado na floresta em comumnhão com a natureza, então quando caçadores invadem a floresta e começam a de forma pedatória destruir o ambiente ele sai de seu isolamento para o combate. O personagem é maltraprilho e tem cabelos logos embaraçados, isso junto de seu chifres e cauda e a mudança de forma enquanto realiza seus movimentos contribuem para funcionar no estilo gráfico de **Thumbnail-silhueta**
 
 ## Estilo visual
 
 - **Thumbnail – silhueta:** personagem desenhado como uma forma sólida, sem linhas internas.
-- Traço:
-- Paleta de cores:
-  - 
-  - 
-  - 
+- Traço:traços mais finos
+- Paleta de cores:a principio é isso
+  - vermelho para os chifres
+  - verde sujo para as vestimentas
+  - e loiro cor de palha para os cabeos
+  - brasas vermelhas
 
 ## Animações pedidas
 
 | Animação | Desenhos | Repete? | Descrição |
 | --- | --- | --- | --- |
-| Idle1 | 6 | Sim | Cavaleiro parado, em posição de guarda, respirando. |
-| Idle2 | 10 | Não | Variação do parado, usada quando o jogador fica um tempo sem se mexer. |
-| Walk | 6  | Sim | Caminhada normal, com passos curtos e firmes por causa da armadura. |
-| Run | 6 | Sim | Corrida rápida. |
-| Jump | 9 | Não | Pulo completo. |
-| Attack | 8 | Não | Golpe de espada. |
-| Hit | 4 | Não | Reação ao levar dano. |
-| Dead | 10 | Não | Morte do personagem. |
+| Idle1 | ? | Sim | Personagem parado, de braços cruzados, respirando, cauda balançando. |
+| Idle2 | ? | Não | Variação do parado, tocada em alguns momentos aleatórios quando se está parado ele respira mais forte e solta chamas. |
+| Walk | ?  | Sim | Caminhada normal, com passos curtos e firmes, com postura elevada. |
+| Run | ? | Sim | Corrida rápida, brassas aparecem enquanto corre. |
+| Jump | ? | Não | Pulo completo,assas saem e ele pula rajada de fogo. |
+| Attack | ? | Não | Garra de dragão, chamas ao redor. |
+| Hit | ? | Não | Reação ao levar dano, queimando um pouco. |
+| Dead | ? | Não | Morte do personagem, vira cinzas. |
 
 ## Requisitos técnicos
 
